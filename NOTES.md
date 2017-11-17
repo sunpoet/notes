@@ -14,4 +14,8 @@
 
 # Conflicts
 
-- [Ports Conflicts Scanner](http://pkgtool.osorio.me/conflicts/) by Rodrigo Osorio
+- [Ports Conflicts Scanner](http://pkgtool.osorio.me/conflicts/) by Rodrigo Osorio.
+
+# New version
+
+- [Portscout](https://portscout.freebsd.org/) by Shaun Amott.

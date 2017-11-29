@@ -19,3 +19,4 @@
 # New version
 
 - [Portscout](https://portscout.freebsd.org/) by Shaun Amott.
+- [Repology](https://repology.org/) by Dmitry Marakasov.

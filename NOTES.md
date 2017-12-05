@@ -14,7 +14,7 @@
 
 # Conflicts
 
-- [Ports Conflicts Scanner](http://pkgtool.osorio.me/conflicts/) by Rodrigo Osorio.
+- [Ports conflicts scanner](http://pkgtool.osorio.me/conflicts/) by Rodrigo Osorio.
 
 # New version
 

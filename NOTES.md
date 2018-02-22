@@ -11,6 +11,7 @@
 - poudriere jail -c -j 11i -a i386 -m ftp -v 11.1-RELEASE
 - poudriere jail -c -j 12 -a amd64 -m ftp -v 12.0-CURRENT
 - poudriere jail -c -j 12i -a i386 -m ftp -v 12.0-CURRENT
+- poudriere jail -c -j 11-openssl-devel -a amd64 -m ftp -v 11.1-RELEASE
 
 # Flavors
 
